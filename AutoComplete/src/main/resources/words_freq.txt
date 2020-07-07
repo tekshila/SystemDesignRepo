@@ -1,0 +1,9 @@
+amazon,500
+amazonprime,50
+amazing,10
+amazingspiderman,200
+amazed,5
+alibaba,150
+aliexpress,100
+ebay,50
+walmart,500

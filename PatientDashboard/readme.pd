@@ -1,0 +1,9 @@
+Sample App showing the use of how caches can be used.
+
+How to setup the app.
+
+1. Import the maven project in Intellij or Eclipse
+
+2. Make sure you are able to run the 'maven clean' and 'maven install'
+
+3. Install redis windows version from https://github.com/dmajkic/redis/downloads

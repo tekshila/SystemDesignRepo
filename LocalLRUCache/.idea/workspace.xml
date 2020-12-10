@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="064e91bc-d795-450f-ba42-aef8acf3fcfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/systemdesign/localcache/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/systemdesign/localcache/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoComplete/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoComplete/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/systemdesign/localcache/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/systemdesign/localcache/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/systemdesign/localcache/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/systemdesign/localcache/Node.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,7 +34,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9">
+            <state relative-caret-position="220">
               <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
             </state>
           </provider>
@@ -42,8 +43,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/systemdesign/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="176">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/systemdesign/AppTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -51,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/systemdesign/localcache/LRUCache.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="94" column="44" selection-start-line="94" selection-start-column="36" selection-end-line="94" selection-end-column="44" />
+            <state relative-caret-position="486">
+              <caret line="90" column="5" lean-forward="true" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -60,8 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/systemdesign/localcache/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            <state relative-caret-position="132">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -82,8 +92,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/systemdesign/LRUCache.java" />
-        <option value="$PROJECT_DIR$/src/main/java/systemdesign/localcache/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/systemdesign/localcache/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/systemdesign/localcache/Node.java" />
       </list>
     </option>
   </component>
@@ -95,8 +105,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
+    <option name="x" value="32" />
+    <option name="y" value="26" />
     <option name="width" value="1400" />
     <option name="height" value="990" />
   </component>
@@ -106,8 +116,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,6 +143,49 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LocalLRUCache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LocalLRUCache" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="systemdesign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LocalLRUCache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LocalLRUCache" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="systemdesign" type="462c0819:PsiDirectoryNode" />
+              <item name="localcache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LocalLRUCache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LocalLRUCache" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LocalLRUCache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LocalLRUCache" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LocalLRUCache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LocalLRUCache" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="systemdesign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LocalLRUCache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LocalLRUCache" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -141,7 +194,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593440264306" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606848427187" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -187,16 +240,25 @@
       <updated>1593311641862</updated>
       <workItem from="1593313994158" duration="6270000" />
       <workItem from="1593381979026" duration="5834000" />
+      <workItem from="1595273564303" duration="1468000" />
+      <workItem from="1595528807885" duration="962000" />
+      <workItem from="1596217177413" duration="833000" />
+      <workItem from="1605550183395" duration="723000" />
+      <workItem from="1605627284731" duration="628000" />
+      <workItem from="1605637722975" duration="1625000" />
+      <workItem from="1605642888972" duration="979000" />
+      <workItem from="1606848388223" duration="660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12104000" />
+    <option name="totallyTimeSpent" value="19982000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25405404" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28732544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -204,7 +266,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32991204" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32887402" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -229,31 +291,38 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/systemdesign/App.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="220">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/systemdesign/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="176">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/systemdesign/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/systemdesign/localcache/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        <state relative-caret-position="132">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/systemdesign/localcache/LRUCache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="94" column="44" selection-start-line="94" selection-start-column="36" selection-end-line="94" selection-end-column="44" />
+        <state relative-caret-position="486">
+          <caret line="90" column="5" lean-forward="true" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
         </state>
       </provider>
     </entry>

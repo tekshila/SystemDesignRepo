@@ -16,4 +16,12 @@ public class Node {
         if(null != next) System.out.println("  next : " + next.value);
         if(null != prev) System.out.println(" prev : " + prev.value + " } ");
     }
+
+    @Override public String toString() {
+        StringBuilder sbr = new StringBuilder();
+            sbr.append(" {  key : " + key);
+            sbr.append("\n  value : " + value);
+
+            return sbr.toString();
+    }
 }
